@@ -1,0 +1,37 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "name": "Video",
+      "url": "https://th.bing.com/th/id/OIP.yRAeJYYp6kE0zDyp09VkPwAAAA?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    },
+    {
+      "id": "2",
+      "name": "avesham",
+      "url": "https://images.indianexpress.com/2024/01/Aavesham-24012024.jpg",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    },
+    {
+      "id": "3",
+      "name": "avesham",
+      "url": "https://images.indianexpress.com/2024/01/Aavesham-24012024.jpg",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    }
+  ],
+  "history": [],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Video",
+      "allVideos": [
+        {
+          "id": "3",
+          "name": "avesham",
+          "url": "https://images.indianexpress.com/2024/01/Aavesham-24012024.jpg",
+          "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+        }
+      ]
+    }
+  ]
+}
